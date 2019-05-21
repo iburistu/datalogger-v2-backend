@@ -5,6 +5,5 @@ This backend is written in TypeScript, uses Express as the base, and aims to rep
 
 The core functionality of this revision remains the same: the data is logged in a SQLite3 database.  However, this code adds the following:
 
-* Websockets for instant and live updating of the frontend with `ws`.
-* Hosts the Angular frontend application
-* Connects directly to the serialport with the use of `serialport`.
+* Hosting Angluar application
+
